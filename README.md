@@ -10,12 +10,12 @@ also results in natural language adapting them to the results.
 # Example
 (see the help for more)
 
-```rmarkdown
-blabla
-bla bla
+## rmarkdown
+
+Bla bla bla 
 
 ```r
-table(a)
+
 ```
 
 
