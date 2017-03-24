@@ -12,11 +12,13 @@ also results in natural language adapting them to the results.
 
 ## rmarkdown
 
-Bla bla bla 
-
 ```r
+# a numeric variable 
+a<-rnorm(100,0,1)
 
 ```
 
+Bla bla bla `r ruminate(a)`
 
-```
+
+
