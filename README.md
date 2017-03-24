@@ -18,7 +18,7 @@ a<-rnorm(100,0,1)
 
 ```
 
-Bla bla bla `r ruminate(a)`
+Bla bla bla \`r ruminate(a)\`
 
 
 
