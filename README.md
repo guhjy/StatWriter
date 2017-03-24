@@ -10,6 +10,7 @@ also results in natural language adapting them to the results.
 # Example
 (see the help for more)
 
+First command is `r ruminate()`, which print out the description of a variable or a table in a sensible way depending on the class of the variable.
 ## rmarkdown
 
 ```r
